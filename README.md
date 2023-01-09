@@ -1,4 +1,5 @@
-# covid_tracker
+# covid_tracker![Screenshot (66)](https://user-images.githubusercontent.com/109581121/211351083-502ba211-8b9a-4848-a492-2545dc4f7c38.png)
+
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/109581121/211350736-db1de557-bc2e-4377-9ada-37737c17d1e4.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/109581121/211350751-1e822cc5-95ff-4150-b116-5b7136c6b3d3.png)
